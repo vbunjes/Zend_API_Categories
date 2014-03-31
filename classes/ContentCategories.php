@@ -7,7 +7,7 @@
  */
 
 /**
- * Create, Update, Get, Delete User
+ * Create, Update, Get, Delete Category
  * Class Users, validation here
  * @package api
  */
